@@ -1,7 +1,7 @@
 name: customProtect
 main: net.coreprotect.CoreProtect
 version: 1.0.0
-branch: master
+branch: development
 api-version: 1.16
 folia-supported: true
 website: http://coreprotect.net
